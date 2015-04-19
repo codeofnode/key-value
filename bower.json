@@ -1,0 +1,35 @@
+{
+  "name": "key-value",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "Ramesh Kumar <goods.ramesh@gmail.com>"
+  ],
+  "description": "Allow client to input key-value pairs",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "key",
+    "value",
+    "object",
+    "interactive",
+    "json",
+    "input",
+    "select2"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1",
+    "select2": "3.5.2"
+  },
+  "license": "MIT",
+  "homepage": "http://jsfiddle.net/nodeofcode/w2v1az8q/16/",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests",
+    "node_modules"
+  ]
+}
