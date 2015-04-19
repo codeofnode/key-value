@@ -40,8 +40,8 @@
 ```
 
 ## Roadmap
-> To support select2 v4
-> Trigger custom events whenever a key-value pair added or removed
+* To support select2 v4
+* Trigger custom events whenever a key-value pair added or removed
 
 ## Any hurdles?
 > Found anything difficult to understand? or some bug or some improvement?. Create an issue [issue](https://github.com/nodeofcode/key-value/issues) for the same.
