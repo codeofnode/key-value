@@ -32,10 +32,16 @@
     symbols : { name : 'isSymbolAllowed', parse : 'Boolean', data : ['true','false'] } // put `name` if you want to display user readable key
   };
   var kv = new KV($('input'),DOMAIN); // where KV is result on requiring `key-value`
+  //...
+  //...
+  //...
+  //...
+  var currentValue = kv.get(); // To extract the current object of key-value pairs
 ```
 
 ## Roadmap
-> Support to select2 v4
+> To support select2 v4
+> Trigger custom events whenever a key-value pair added or removed
 
 ## Any hurdles?
 > Found anything difficult to understand? or some bug or some improvement?. Create an issue [issue](https://github.com/nodeofcode/key-value/issues) for the same.
