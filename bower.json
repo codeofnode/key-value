@@ -1,9 +1,9 @@
 {
   "name": "key-value",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
-    "Ramesh Kumar <goods.ramesh@gmail.com>"
+    "Ramesh Kumar <codeofnode@gmail.com>"
   ],
   "description": "Allow client to input key-value pairs",
   "moduleType": [
