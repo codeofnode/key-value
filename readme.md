@@ -8,7 +8,7 @@
 * Allow user to input custom string for value
 
 ## Demo
-  http://jsfiddle.net/nodeofcode/w2v1az8q/19/
+  http://jsfiddle.net/codeofnode/w2v1az8q/19/
 
 ## Dependencies
 * JQuery
